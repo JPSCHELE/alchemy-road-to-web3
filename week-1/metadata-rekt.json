@@ -1,0 +1,21 @@
+{
+    "description": "Test NFT to prove that building and ERC721 token for personal purposes is not that hard ", 
+    "external_url": "https://google.com", 
+    "image": "https://ipfs.filebase.io/ipfs/QmaLyZhgVcKnHQvVmVJUqiEtzKJczHtjAwMviXKFstDE94", 
+    "name": "Skelli REKT",
+    "attributes": [
+        {
+          "trait_type": "Coolness", 
+          "value": "Caleta"
+        }, 
+        {
+          "trait_type": "Life", 
+          "value": "Thug Life"
+        }, 
+        {
+          "trait_type": "Status", 
+          "value": "REKT"
+        }
+      ] 
+  }
+  
